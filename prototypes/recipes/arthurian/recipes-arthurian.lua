@@ -109,6 +109,7 @@ RECIPE {
 
 
 ---growing---
+--[[
 
 RECIPE {
     type = "recipe",
@@ -130,7 +131,6 @@ RECIPE {
 }:add_unlock("assisted-embryology")
 
 ---maturing---
---[[
 RECIPE {
     type = 'recipe',
     name = 'arthurian-mature-01',
